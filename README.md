@@ -4,6 +4,7 @@ simple python module
 #package structure
 
 myutils_package/
+
 ├── init.py # 패키지 초기화 파일
 ├── calculator.py # 계산 관련 함수 (add, multiply, power)
 ├── text_processor.py # 문자열 처리 함수 (reverse_text, count_words)
